@@ -1,0 +1,5 @@
+exports/*
+data_raw/*
+*.env
+*.bak
+__pycache__/
